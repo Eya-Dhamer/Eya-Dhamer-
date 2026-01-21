@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Eya Dhamer and I'm an IT Student focused on Data Science, Machine Learning, AI, and modern Web & Mobile Development</h2>
+<h2 align="center">Hi 👋! My name is Eya Dhamer and I'm an IT Student focused on Data Science, Machine Learning, AI, and modern Web & Mobile Development</h2>
 
 
 
